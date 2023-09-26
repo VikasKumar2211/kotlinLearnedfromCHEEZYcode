@@ -1,6 +1,6 @@
 // var can be reassigned
 // val can't
-/*fun main(){
+fun main(){
     var score = 5
     score = 34
     println(score)
@@ -10,12 +10,12 @@
     //message = "Welcome to Tech Street" //you have to create a tech city not tech street
 
     println(message)
-}*/
-fun main(){
-    var score : Int = 12
+//}
+//fun main(){ // explicitly defining the data type
+    var score2 : Int = 12
     var temperature: Double = 89.4
     var isRaining: Boolean = false
     var alphabet: Char = 'A'
-    var message: String = "Hello World"
+    var message45215: String = "Hello World"
     println("$ fscore $temperature $isRaining $alphabet $message")
 }

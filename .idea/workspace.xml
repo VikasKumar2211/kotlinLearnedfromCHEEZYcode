@@ -4,86 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9223cac2-96fb-4cbf-b5b7-68f7ef89ff8d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="9223cac2-96fb-4cbf-b5b7-68f7ef89ff8d" name="Changes" comment="little bit change in 0.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/0. Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/0. Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/10. Array.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/10. Array.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/11.1 more about classes and objects.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/11.1 more about classes and objects.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/12. Constructors.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/12. Constructors.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/12.1 initializer block.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/12.1 initializer block.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/12.2 Secondary Constructors.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/12.2 Secondary Constructors.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/12.3 12.2's code written by chatgpt.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/12.3 12.2's code written by chatgpt.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/13. Getter Setter.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/13. Getter Setter.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/13.1 Getter Setter example.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/13.1 Getter Setter example.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/14. Inheritance.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/14. Inheritance.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/14.1 overriding in Inheritence.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/14.1 overriding in Inheritence.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/14.2 overriding in Inheritence.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/14.2 overriding in Inheritence.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/15. Polymorphism.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/15. Polymorphism.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/15.1 Polymorohism.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/15.1 Polymorohism.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/15.2 Polymorphism.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/15.2 Polymorphism.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/16. Abstract class and Abstract Methods.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/16. Abstract class and Abstract Methods.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/17. Interface with example with polymorphism.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/17. Interface with example with polymorphism.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/18. Type Checking and Smart Casting.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/18. Type Checking and Smart Casting.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/19. Modifiers, Visibility Modifier.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/19. Modifiers, Visibility Modifier.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/kotlin/2. variable.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/2. variable.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/20. Object Declaration, Expression and sigleton Pattern.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/20. Object Declaration, Expression and sigleton Pattern.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/20.1 Sigleton.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/20.1 Sigleton.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/20.2 Object Expression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/20.2 Object Expression.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/21. Companion Object, JVM Static and Kotlin Factory Pattern.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/21. Companion Object, JVM Static and Kotlin Factory Pattern.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/21.1 Factory pattern.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/21.1 Factory pattern.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/22. Kotlin Data Classes, Equals and Hashcode Method.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/22. Kotlin Data Classes, Equals and Hashcode Method.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/23. Enum class and Sealed class.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/23. Enum class and Sealed class.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/23.1 Sealed class.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/23.1 Sealed class.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/24. Null Safety, Safe Call and Elvis Operator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/24. Null Safety, Safe Call and Elvis Operator.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/25. Exception Handling.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/25. Exception Handling.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/25.1 Throw Execption.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/25.1 Throw Execption.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/26. Collection. List and map.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/26. Collection. List and map.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/26.1 Maps.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/26.1 Maps.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/27. Lambda and higher order function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/27. Lambda and higher order function.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/27.1 Lambdas expression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/27.1 Lambdas expression.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/29. Extention &amp; Incline function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/29. Extention &amp; Incline function.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/29.1 Incline function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/29.1 Incline function.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/3. Operators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/3. Operators.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/3.1 Increment Decrement operator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/3.1 Increment Decrement operator.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/3.2 Logical Operators 2nd example .kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/3.2 Logical Operators 2nd example .kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/3.2 Logical Operators example.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/3.2 Logical Operators example.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/3.2 Logical Operators short circuiting example .kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/3.2 Logical Operators short circuiting example .kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/3.2 Logical Operators.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/3.2 Logical Operators.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/3.3 Negation operator 2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/3.3 Negation operator 2.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/3.3 Negation operator.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/3.3 Negation operator.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/30. Apply, let, with, run, Scoped function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/30. Apply, let, with, run, Scoped function.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/30.1 Let.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/30.1 Let.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/31. Generics, Vararg.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/31. Generics, Vararg.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/31.1 vararg.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/31.1 vararg.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/32. Nested class and inner class.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/32. Nested class and inner class.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/32.1 inner class.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/32.1 inner class.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/4. If else.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/4. If else.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/4.1 if else, another way write.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/4.1 if else, another way write.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/4.2 if else example.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/4.2 if else example.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/4.3 if else, expression ki tarah .kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/4.3 if else, expression ki tarah .kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/4.4 if else next example, one line code.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/4.4 if else next example, one line code.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/4.4 if else next one line example.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/4.4 if else next one line example.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/4.4 if else.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/4.4 if else.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/5. Range.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/5. Range.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/5.1 Range until.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/5.1 Range until.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/6.1 When as an expression.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/6.1 When as an expression.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/6.2 When-Range.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/6.2 When-Range.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/7. loop, while loop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/7. loop, while loop.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/7.1 while loop 2 ka table.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/7.1 while loop 2 ka table.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/7.2 do while loop example.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/7.2 do while loop example.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/7.3 for loop.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/7.3 for loop.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/8. string templating.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/8. string templating.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/9. functions.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/9. functions.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/9.1 in line function, one line function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/9.1 in line function, one line function.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/9.2 default argument in function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/9.2 default argument in function.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/9.3 func overloading, overloaded function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/9.3 func overloading, overloaded function.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/9.4 named argument in function.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/9.4 named argument in function.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/9.5 storing func in variable.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/9.5 storing func in variable.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/BasicPhone.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/BasicPhone.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Phone.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Phone.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/SmartPhone.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/SmartPhone.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/kotlin/kolin documentation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/kolin documentation.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -166,6 +90,14 @@
       <option name="presentableId" value="Default" />
       <updated>1678964608715</updated>
     </task>
+    <task id="LOCAL-00001" summary="little bit change in 0.">
+      <created>1695733104029</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695733104029</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +110,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="little bit change in 0." />
+    <option name="LAST_COMMIT_MESSAGE" value="little bit change in 0." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
