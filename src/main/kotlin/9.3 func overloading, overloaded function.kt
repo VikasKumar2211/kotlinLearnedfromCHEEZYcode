@@ -1,12 +1,12 @@
 fun main(){
-    println(addition(1, 2))
-    println(addition(1.0, 2.0))
+    println(jodo(1, 2))
+    println(jodo(1.0, 2.0))
 }
-fun addition(a: Int, b: Int): Int
+fun jodo(a: Int, b: Int): Int
 {
     return a + b
 }
-fun addition(a: Double, b: Double): Double
+fun jodo(a: Double, b: Double): Double
 {
     return a + b
 }

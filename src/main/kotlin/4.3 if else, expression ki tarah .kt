@@ -1,3 +1,4 @@
+// this va riaton if if else is only available in kotlin, using if else as an expression
 fun main (){
     val x= 10
     val y = 10
