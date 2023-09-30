@@ -1,6 +1,6 @@
 fun main(){
     val isRaining = false
-    if(isRaining){
+    if(isRaining){ // agar mention nhi karenge toh by default true rahega
         println("Take Umbrella")
 
     }

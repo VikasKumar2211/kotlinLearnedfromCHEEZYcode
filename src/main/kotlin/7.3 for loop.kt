@@ -4,14 +4,19 @@ fun main(){
         println(i)
     }
 
-    println("Until")
-    for(i in 1 until 5)
+    println("for loop with Until")
+    for(i in 1 until 5)//1, 2, 3, 4
     {
         println(i)
     }
 
-    println("downTo loop")
+    println("for loop with downTo")
     for(i in 10 downTo 1)
+    {
+        println(i)
+    }
+    println("for loop with downTo with step")
+    for(i in 10 downTo 1 step 2)
     {
         println(i)
     }

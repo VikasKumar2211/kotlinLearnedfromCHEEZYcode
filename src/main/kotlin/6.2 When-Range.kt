@@ -1,4 +1,4 @@
-fun main(){
+  fun main(){
     val number = 45
     val result = when(number){
         11 -> "Eleven"

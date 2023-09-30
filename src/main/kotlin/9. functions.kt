@@ -1,6 +1,6 @@
-/*
- fun functionkanaam(parameter1, parameter2....):Returntype //matlab return value ka type
- {
+/* syntax format of functions
+ fun functionkanaam(parameter1, parameter2....):Returntype //matlab output value ka type, i.e return value ka type
+ {                                                         // parameter are just inputs
      //block of code
      return result
  }

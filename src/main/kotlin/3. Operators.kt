@@ -7,11 +7,11 @@ fun main(){
     println( i * j)
     println( i / j)
     println( i.toFloat() / j)
-    println( i % j)//Modulus operator %
+    println( i % j)//Modulus operator %, it give reminder
     println( i > j )
-    println( i < j )
+    println( i < j  )
     println( i >= j )
     println( i <= j )
     println( i == j )
-    println( i != j )
+    println( i != j )// not equal
 }
